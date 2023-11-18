@@ -4,4 +4,4 @@
 - Feel free to play around with other elements, such as image views, textfields, etc.
 - Implement a way to change the color of the text as well
 
-![](https://imgur.com/w4BIjG7)
+![](https://i.imgur.com/HXY1cEC.gif)
